@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=677
+
+PGN, or Portable Game Notation, is the standard format for recording chess games.  All chess software that I've used can read .pgn files, most can write .pgn files.  I like to edit the files in Vim, but I couldn't find a syntax file for .pgn.  So I wrote this one.  It's quite simple, and the first syntax file I've ever written for Vim, so it may not be complete.  But it does make it easier to read / edit the games.
